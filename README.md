@@ -6,7 +6,7 @@ You can creates or modifies Snvironment Variables in System Ecvironment.
 
 Syntax
 ------
-Environment <Variable> <Value>
+Environment &lt;Variable&gt; &lt;Value&gt;
 
 Parameters
 ----------
