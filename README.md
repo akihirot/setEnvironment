@@ -2,7 +2,7 @@ setEnvironment
 ==============
 
 This is batch file for Windows.
-You can creates or modifies Snvironment Variables in System Ecvironment.
+You can creates or modifies Environment Variables in System Environment.
 
 Syntax
 ------
